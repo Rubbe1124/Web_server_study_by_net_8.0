@@ -1,0 +1,4 @@
+D:\GameServer_Tarodev\SharedLibrary\obj\Debug\netstandard2.1\SharedLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\GameServer_Tarodev\SharedLibrary\obj\Debug\netstandard2.1\SharedLibrary.AssemblyInfoInputs.cache
+D:\GameServer_Tarodev\SharedLibrary\obj\Debug\netstandard2.1\SharedLibrary.AssemblyInfo.cs
+D:\GameServer_Tarodev\SharedLibrary\obj\Debug\netstandard2.1\SharedLibrary.csproj.CoreCompileInputs.cache

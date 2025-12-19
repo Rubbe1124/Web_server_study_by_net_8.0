@@ -1,0 +1,5 @@
+is_global = true
+build_property.RootNamespace = SharedLibrary
+build_property.ProjectDir = D:\GameServer_Tarodev\SharedLibrary\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
